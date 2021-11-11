@@ -1,1 +1,1 @@
-# sevil-alpha
+# basic & simple browser Just educational
