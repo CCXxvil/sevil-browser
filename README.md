@@ -1,1 +1,5 @@
-# basic & simple browser Just educational
+# basic & simple browser with python
+
+require :
+pip install PyQtWebEngine
+pip install PyQt5
