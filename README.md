@@ -1,6 +1,5 @@
 # basic & simple browser with python
 
-# require :
-
+require :
 PyQt5 & PyQtWebEngine
 
